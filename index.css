@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+  }
+
+.hero-img {
+    height: 25%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.top-left-nav {
+    background-color: none;
+    
+}
+
+.top-left-nav a {
+    float: left;
+    color: greenyellow;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: none ;
+    font-size: 14px;
+
+}
+
+img{
+    width: 100%;
+    height: 350px;
+}
+
+}
+ /*nav,
+  footer {
+    padding: 1% 0;
+    background-color: #aaa;
+  }*/
+
+#bio {
+    line-height: 1.4;
+}
+
